@@ -17,7 +17,7 @@ My goal is to become a professional **Data Scientist / AI Engineer** and contrib
 🧠 **Tech Stack**
 
 <center>
-<img alt="coding" src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+<img alt="coding" src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 </center>
 
 <p>
