@@ -2,7 +2,6 @@ Hello friend! 👋 Welcome to my page!
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%">
 
 I'm **Ibrahem Nader**, 
 a Data Science and Artificial Intelligence student from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Egypt.
@@ -18,7 +17,7 @@ My goal is to become a professional **Data Scientist / AI Engineer** and contrib
 🧠 **Tech Stack**
 
 <center>
-<img alt="coding" src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
+<img alt="coding" src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
 </center>
 
 <p>
