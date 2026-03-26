@@ -11,13 +11,15 @@ I'm a passionate **Data Science and Artificial Intelligence student** who loves 
 
 Currently focusing on:
 
-- Python Programming 🐍
 - Data Analysis & Visualization 📊
 - Machine Learning 🤖
-- Problem Solving & Algorithms 🧠
+- Deep Learning 🧠
+- Database & MySQL 🗄️
 - Statistics & Mathematics for Data Science 📈
 
-My goal is to become a professional **Data Scientist** and build intelligent systems that make an impact.
+Also interested in **Embedded Systems** and smart hardware integration.
+
+My goal is to become a professional **Data Scientist / AI Engineer** and build intelligent systems that make an impact.
 
 ---
 
@@ -30,11 +32,11 @@ My goal is to become a professional **Data Scientist** and build intelligent sys
 <p>
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
-<img alt="Scikit Learn" src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img alt="Machine Learning" src="https://img.shields.io/badge/MachineLearning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+<img alt="Deep Learning" src="https://img.shields.io/badge/DeepLearning-000000?style=for-the-badge&logo=pytorch&logoColor=red"/>
+<img alt="Data Analysis" src="https://img.shields.io/badge/DataAnalysis-4CAF50?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Database Design" src="https://img.shields.io/badge/DatabaseDesign-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
@@ -45,7 +47,8 @@ My goal is to become a professional **Data Scientist** and build intelligent sys
 
 - 📊 Data Analysis Projects (Coming Soon)
 - 🤖 Machine Learning Models (Coming Soon)
-- 🧠 Problem Solving & Algorithms Implementations
+- 🧠 Deep Learning Experiments
+- ⚙️ Embedded Systems Experiments
 
 ---
 
@@ -60,8 +63,8 @@ Major: **Data Science**
 
 ## 🚀 Goals
 
-- Master Data Science & Machine Learning  
-- Participate in real-world projects  
+- Master Machine Learning & Deep Learning  
+- Participate in real-world AI projects  
 - Build strong portfolio on GitHub  
 - Work as Data Scientist / AI Engineer  
 
@@ -75,16 +78,23 @@ Major: **Data Science**
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:PUT_YOUR_EMAIL_HERE" target="_blank">
+<a href="mailto:0ibrahemnader1@gmial.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="PUT_YOUR_LINKEDIN_HERE" target="_blank">
+<a href="https://www.linkedin.com/in/ibrahem-nader-a64626347" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile! ✨
+
+</div>
 ---
 
 <div align="center">
