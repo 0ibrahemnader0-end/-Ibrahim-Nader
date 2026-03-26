@@ -1,4 +1,5 @@
 Hello friend! 👋 Welcome to my page! 
+<center> <p> <img alt="git" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2piM2x1cWQ4enRpbzhtOWg1bDF4bXVuOWtlcnhra2lhMjN1dnUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
 
 <div align="center">
 
@@ -15,7 +16,7 @@ I’m also interested in **Embedded Systems, Linux, and AI Tools**, and how inte
 My goal is to become a professional **Data Scientist / AI Engineer** and contribute to real-world impactful projects.
 
 🧠 **Tech Stack**
-🧠 Tech Stack <center> <p> <img alt="git" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2piM2x1cWQ4enRpbzhtOWg1bDF4bXVuOWtlcnhra2lhMjN1dnUwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
+
 <center>
 <img alt="coding" src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 </center>
