@@ -17,22 +17,23 @@ My goal is to become a professional **Data Scientist / AI Engineer** and contrib
 <p>
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="OOP" src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Data Structure" src="https://img.shields.io/badge/DataStructure-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white"/>
 <img alt="Machine Learning" src="https://img.shields.io/badge/MachineLearning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
 <img alt="Deep Learning" src="https://img.shields.io/badge/DeepLearning-000000?style=for-the-badge&logo=pytorch&logoColor=red"/>
 <img alt="Data Analysis" src="https://img.shields.io/badge/DataAnalysis-4CAF50?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="Database Design" src="https://img.shields.io/badge/DatabaseDesign-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 </p>
 
 🧩 **Featured Projects**
 
+- 🤖 Machine Learning Models — In Progress
+- 🧠 Deep Learning Experiments — In Progress
 - 📊 Data Analysis Projects — Coming Soon  
-- 🤖 Machine Learning Models — Coming Soon  
-- 🧠 Deep Learning Experiments — In Progress  
-- ⚙️ Embedded Systems + AI Integration — Planned  
+- 📊 Data Scientist Projects - Planned  
 
 🎓 **Education**  
 Bachelor of Computers and Artificial Intelligence — Major: Data Science  
