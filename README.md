@@ -1,6 +1,9 @@
 Hello friend! 👋 Welcome to my page! 
 
-<img alt="Data Analysis" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300"/>
+*Code Cycle*<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 I'm **Ibrahem Nader**, 
 a Data Science and Artificial Intelligence student from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Egypt.
