@@ -1,12 +1,8 @@
 Hello friend! 👋 Welcome to my page! 
 
-<summary>More stats</summary>
+<div align="center">
 
-<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
-
-</details>
-
-<hr></hr>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%">
 
 I'm **Ibrahem Nader**, 
 a Data Science and Artificial Intelligence student from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Egypt.
