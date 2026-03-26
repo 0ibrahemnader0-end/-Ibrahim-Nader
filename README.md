@@ -1,6 +1,9 @@
-Hello friend! 👋 Welcome to my page! I'm **Ibrahem Nader**, 
+Hello friend! 👋 Welcome to my page! 
+
+<img alt="Data Analysis" src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="300"/>
+
+I'm **Ibrahem Nader**, 
 a Data Science and Artificial Intelligence student from <img src="https://cdn-icons-png.flaticon.com/512/197/197604.png" width="13"/> Egypt.
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="300"/>
 
 💻 **About Me**  
 I'm passionate about **Data Analysis, Machine Learning, and Deep Learning**, and I enjoy turning data into meaningful insights and intelligent solutions.  
